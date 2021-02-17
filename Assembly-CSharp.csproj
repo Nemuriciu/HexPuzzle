@@ -53,9 +53,9 @@
      <Compile Include="Assets\Game\HexGrid\_Scripts\HexBehaviour.cs" />
      <Compile Include="Assets\Game\HexGrid\_Scripts\Hexagon.cs" />
      <Compile Include="Assets\Game\_Scripts\GameBehaviour.cs" />
+     <Compile Include="Assets\Game\_Scripts\Score.cs" />
      <Compile Include="Assets\Game\HexGrid\_Scripts\HexInteract.cs" />
      <Compile Include="Assets\Menu\_Scripts\StartButton.cs" />
-     <Compile Include="Assets\Game\_Scripts\Score.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
